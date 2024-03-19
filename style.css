@@ -12,7 +12,6 @@ form {
   border-radius: 6px;
   font-size: 16px;
   margin-bottom: 10px;
-  width: 50%;
 }
 
 .password-input {
@@ -20,7 +19,6 @@ form {
   border-radius: 6px;
   font-size: 16px;
   margin-bottom: 10px;
-  width: 50%;
 }
 
 .login-button {
