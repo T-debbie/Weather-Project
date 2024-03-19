@@ -1,5 +1,34 @@
 h1 {
   text-align: center;
-  color: blueviolet;
-  font-size: medium;
+
+  font-size: 30px;
+}
+
+form {
+  margin: 20px 0;
+}
+.email-input {
+  padding: 10px 15px;
+  border-radius: 6px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  width: 50%;
+}
+
+.password-input {
+  padding: 10px 15px;
+  border-radius: 6px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  width: 50%;
+}
+
+.login-button {
+  padding: 10px 25px;
+  border-radius: 6px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  background: blue;
+  color: white;
+  border: none;
 }
